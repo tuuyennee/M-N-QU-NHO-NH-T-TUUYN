@@ -15,7 +15,7 @@ const CONFIG = {
     question:'Trái đất có 7 tỉ người, tại sao anh lại chọn em thế???? :3',
     btnReply: 'Gửi cho em <3',
     reply: 'Vì em xinh đẹp, em cute phô mai que, em đáng yêu phải hơm nào hihi',
-    mess: 'Một vài lời nhắn tới anh',
+    mess: 'Yêu thì yêu không yêu thì yêu <33333',
     messDesc: 'Nếu có thể, em mong chúng mình hãy cùng nhau xây dựng mối tình này thật lâu bền nhé <3.',
     btnAccept: 'Okiiii lun <3',
     messLink: 'http://www.facebook.com/lychee0102/' }
