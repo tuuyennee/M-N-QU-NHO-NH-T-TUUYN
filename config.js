@@ -7,15 +7,15 @@ const CONFIG = {
     Lạc vào tim anh lẻ loi
     
     Đằng sau chữ yêu đây là thương <3`,
-    btnIntro: 'Yêu Yêu ',
-    title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên??',
-    desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy?? <333 ',
+    btnIntro: 'Hahahaa <33',
+    title: 'Có phải anh đang cảm thấy mệt mỏi vì công việc hong?',
+    desc: 'Không sao mà em đây rồi, em sẽ giúp anh vượt qua sự áp lực đó nhé!! Dù chỉ một phần nhỏ <333 ',
     btnYes: 'Đúng rồi <33',
     btnNo: 'Không, Cô Bé à :3 ',
-    question:'Trái đất có 7 tỉ người, tại sao anh lại chọn em thế???? :3',
+    question:'Trái đất có 7 tỉ người, tại sao anh lại chọn em để ib thế???? :3',
     btnReply: 'Gửi cho em <3',
-    reply: 'Vì em xinh đẹp, em cute phô mai que, em đáng yêu phải hơm nào hihi',
-    mess: 'Yêu thì yêu không yêu thì yêu <33333',
-    messDesc: 'Nếu có thể, em mong chúng mình hãy cùng nhau xây dựng mối tình này thật lâu bền nhé <3.',
+    reply: 'Vì em xinh đẹp, em cute phô mai que, em đáng yêu (phải hơm)',
+    mess: 'Here on earth, joy is yours <3333',
+    messDesc: 'Vì một tương lai ngày nào cũng là chủ nhật =))) FIGHTINGGG <333',
     btnAccept: 'Okiiii lun <3',
     messLink: 'http://www.facebook.com/lychee0102/' }
